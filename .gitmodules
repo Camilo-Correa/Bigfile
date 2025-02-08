@@ -1,0 +1,3 @@
+[submodule "libs/prueba-submodulos"]
+	path = libs/prueba-submodulos
+	url = https://github.com/Camilo-Correa/prueba-submodulos.git
